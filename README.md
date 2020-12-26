@@ -7,7 +7,7 @@ Pick one tech from each of these categories, follow the intentions directly.
 
 [New Language Topics](lang.md)
 
-##Scala
+## Scala
 install the package : pip install spylon-kernel
 create a kernel spec : python -m spylon_kernel install
 start the jupyter notebook : ipython notebook
