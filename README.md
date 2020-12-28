@@ -17,8 +17,12 @@ start the jupyter notebook : ipython notebook
 
 ## New NoSQL Database
 
+## Redis
+
 [New NoSQL Database](dbs.md)
 
 ## Data Visualization
+
+## Bokeh
 
 [Data Visualization](vis.md)
