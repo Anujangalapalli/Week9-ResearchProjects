@@ -26,3 +26,7 @@ start the jupyter notebook : ipython notebook
 [Data Visualization](vis.md)
 
 ## Bokeh
+
+
+<img width="522" alt="Screen Shot 2020-12-27 at 8 46 02 PM" src="https://user-images.githubusercontent.com/60826485/103184597-d9b0eb00-4886-11eb-9866-b3cc211600e3.png">
+
